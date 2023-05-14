@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Annoté</string>
+    <string name="placeholderText">Make a grocery list, it will help me concentrate on my study and let me live happily ever after.
+This is what’s actually fine by me, gonna stick to this solution so far.Make a grocery list, it will help me concentrate on my study and let me live happily ever after.
+This is what’s actually fine by me, gonna stick to this solution so far.Make a grocery list, it will help me concentrate on my study and let me live happily ever after.
+This is what’s actually fine by me, gonna stick to this solution so far.Make a grocery list, it will help me concentrate on my study and let me live happily ever after.
+This is what’s actually fine by me, gonna stick to this solution so far.Make a grocery list, it will help me concentrate on my study and let me live happily ever after.
+This is what’s actually fine by me, gonna stick to this solution so far.Make a grocery list, it will help me concentrate on my study and let me live happily ever after.
+This is what’s actually fine by me, gonna stick to this solution so far.</string>
+    <string name="first_day">S</string>
+    <string name="second_day">M</string>
+    <string name="third_day">T</string>
+    <string name="fourth_day">W</string>
+    <string name="fifth_day">T</string>
+    <string name="sixth_day">F</string>
+    <string name="seventh_day">S</string>
+    <string name="choose_where_to_go">Choose where to go</string>
+    <string name="go">Go</string>
+    <string name="delete_button">Delete</string>
+    <string name="save_button">Save</string>
+    <string name="calendar_title">Calendar</string>
+    <string name="onboarding_screen1_text1">10 years of</string>
+    <string name="onboarding_screen1_text2">Android Studio\nicon history.</string>
+    <string name="onboarding_screen1_text3">Thank you Android Studio team.</string>
+    <string name="lets_go">Let\'s go back</string>
+    <string name="onboarding_screen_2020_text1">2020 - 2022</string>
+    <string name="onboarding_screen_2020_text2">Fuels conversation.</string>
+    <string name="onboarding_screen_2022_text1">History of Android Studio Logo</string>
+    <string name="onboarding_screen_2022_text2">2022 - 2023</string>
+    <string name="onboarding_screen_2022_text3">The newest redesign.</string>
+    <string name="onboarding_screen_2019_text1">2019</string>
+    <string name="onboarding_screen_2019_text2">Comforting.</string>
+    <string name="onboarding_screen_2014_text1">2014 - 2019</string>
+    <string name="onboarding_screen_2014_text2">Classic.</string>
+    <string name="onboarding_screen_2013_text1">2013 - 2014</string>
+    <string name="onboarding_screen_2013_text2">Robotic, green.</string>
+</resources>
