@@ -1,0 +1,20 @@
+appId: com.manicpixie.annoteappcompose
+---
+- launchApp
+- assertVisible: "2022 - 2023"
+- runFlow: "wait.yaml"
+- back
+- assertVisible: "2020 - 2022"
+- runFlow: "wait.yaml"
+- back
+- assertVisible: "2019"
+- runFlow: "wait.yaml"
+- back
+- assertVisible: "2014 - 2019"
+- runFlow: "wait.yaml"
+- back
+- assertVisible: "2013 - 2014"
+- runFlow: "wait.yaml"
+- back
+- runFlow: "wait.yaml"
+- assertVisible: "Thank you Android Studio team."

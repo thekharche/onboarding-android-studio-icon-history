@@ -1,0 +1,6 @@
+appId: com.manicpixie.annoteappcompose
+---
+- swipe:                 # This command swipes from point (x:100, y:200) to point (x: 300, y:400). Units are in pixels
+    start: 1, 1
+    end: 1, 1
+    duration: 4000
